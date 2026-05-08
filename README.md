@@ -4,7 +4,7 @@
 
 PixelPurge is a high-performance, privacy-first Android utility designed to help you declutter your gallery and strip hidden tracking data from your photos. Built with Jetpack Compose for a buttery-smooth native experience.
 
-[**Download Latest Free APK**](https://github.com/RavanaCraftMC/PixelPurge/releases/tag/v1.0.0) | [**Get PixelPurge Pro ($4.99)**](https://designxdrma.gumroad.com/l/pixelpurgepro?_gl=1*3i4jqk*_ga*NjE0MzE0NzYxLjE3NzgyNDQ4NjM.*_ga_6LJN6D94N6*czE3NzgyNDcwMDUkbzIkZzEkdDE3NzgyNDg1NTMkajU0JGwwJGgw)
+[**Download Latest Free APK**](https://github.com/RavanaCraftMC/PixelPurge/releases/tag/v1.0.0) | [**Get PixelPurge Pro **](https://designxdrma.gumroad.com/l/pixelpurgepro?_gl=1*3i4jqk*_ga*NjE0MzE0NzYxLjE3NzgyNDQ4NjM.*_ga_6LJN6D94N6*czE3NzgyNDcwMDUkbzIkZzEkdDE3NzgyNDg1NTMkajU0JGwwJGgw)
 
 ---
 
