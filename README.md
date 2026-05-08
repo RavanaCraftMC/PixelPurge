@@ -47,7 +47,7 @@ The ultimate privacy tool. Select photos to "Ghost" them.
 | Junk Screenshot Scanning | ✅ | ✅ |
 | Screenshot Deletion | ✅ | ✅ |
 | GPS Exposure Analysis | ✅ | ✅ |
-| **Ghost Protocol (EXIF Scrubbing)** | ❌ (Teaser) | ✅ |
+| **Ghost Protocol (EXIF Scrubbing)** | ❌ | ✅ |
 | **Dark Mode Toggle** | ✅ | ✅ |
 | **Priority Updates** | ❌ | ✅ |
 | **One-time payment (No Subs)** | $0 | $4.99 |
