@@ -4,7 +4,7 @@
 
 PixelPurge is a high-performance, privacy-first Android utility designed to help you declutter your gallery and strip hidden tracking data from your photos. Built with Jetpack Compose for a buttery-smooth native experience.
 
-[**Download Latest Free APK**]([https://github.com/YOUR_USERNAME/PixelPurge/releases](https://github.com/RavanaCraftMC/PixelPurge/releases/tag/v1.0.0)) | [**Get PixelPurge Pro ($4.99)**]([https://gumroad.com/l/yourlink](https://designxdrma.gumroad.com/l/pixelpurgepro?_gl=1*3i4jqk*_ga*NjE0MzE0NzYxLjE3NzgyNDQ4NjM.*_ga_6LJN6D94N6*czE3NzgyNDcwMDUkbzIkZzEkdDE3NzgyNDg1NTMkajU0JGwwJGgw))
+[**Download Latest Free APK**](https://github.com/RavanaCraftMC/PixelPurge/releases/tag/v1.0.0) | [**Get PixelPurge Pro ($4.99)**](https://designxdrma.gumroad.com/l/pixelpurgepro?_gl=1*3i4jqk*_ga*NjE0MzE0NzYxLjE3NzgyNDQ4NjM.*_ga_6LJN6D94N6*czE3NzgyNDcwMDUkbzIkZzEkdDE3NzgyNDg1NTMkajU0JGwwJGgw)
 
 ---
 
@@ -71,7 +71,7 @@ To ensure the APK hasn't been tampered with, you can verify the **SHA-256 Hash**
 **SHA-256:** `[sha256:de0074029911f777dfd72efba0866739c28df310389a90b7a430821eaf243734]`
 
 > [!TIP]
-> **Check the VirusTotal Report:** [[Link to your VirusTotal Scan Result](https://www.virustotal.com/gui/file/de0074029911f777dfd72efba0866739c28df310389a90b7a430821eaf243734?nocache=1)] (0/69 Clean)
+> **Check the VirusTotal Report:** [[Link to VirusTotal Scan Result](https://www.virustotal.com/gui/file/de0074029911f777dfd72efba0866739c28df310389a90b7a430821eaf243734?nocache=1)] (0/66 Clean)
 
 ---
 
